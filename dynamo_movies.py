@@ -2,6 +2,7 @@
 # CS178 - Lab 8 Starter
 # Lab 8A - Camille Thoms
 # Version 2
+# I'm sorry for such a late submission. Thank you for your understanding. 
 
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
